@@ -1,0 +1,413 @@
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Presentacion\bin\Debug\Presentacion.exe
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Presentacion\bin\Debug\Presentacion.pdb
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Presentacion\obj\x86\Debug\Presentacion.FrmMenuPrincipal.resources
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Presentacion\obj\x86\Debug\Presentacion.exe
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Presentacion\obj\x86\Debug\Presentacion.pdb
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Presentacion\obj\x86\Debug\Presentacion.FrmAlumnos.resources
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Presentacion\obj\x86\Debug\Presentacion.FrmFamilia.resources
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Presentacion\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Presentacion\bin\Debug\Presentacion.exe.config
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal.resources
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Presentacion\bin\Debug\Datos.dll
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Presentacion\bin\Debug\Datos.pdb
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Presentacion\obj\x86\Debug\Presentacion.FrmLogin.resources
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Presentacion\bin\Debug\Logica.dll
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Presentacion\bin\Debug\Logica.pdb
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Presentacion.exe.config
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.exe
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.pdb
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Presentacion.exe
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Presentacion.pdb
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Datos.dll
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Logica.dll
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Datos.pdb
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Logica.pdb
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmFamilia.resources
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmLogin.resources
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmMenuPrincipal.resources
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal.resources
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmAlmacen.resources
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Datos.dll
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Logica.dll
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Logica.pdb
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmAlmacen.resources
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmFamilia.resources
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmLogin.resources
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmMenuPrincipal.resources
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal.resources
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Entidades.pdb
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Presentacion.exe.config
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.exe
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.pdb
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Presentacion.exe
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Presentacion.pdb
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Datos.dll
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Logica.dll
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Entidades.dll
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Datos.pdb
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Logica.pdb
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Entidades.pdb
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmAlmacen.resources
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmFamilia.resources
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmLogin.resources
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmMenuPrincipal.resources
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal.resources
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Backup Code Fuente\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Presentacion.exe.config
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Backup Code Fuente\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.exe
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Backup Code Fuente\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.pdb
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Backup Code Fuente\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Presentacion.exe
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Backup Code Fuente\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Presentacion.pdb
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Backup Code Fuente\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Datos.dll
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Backup Code Fuente\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Logica.dll
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Backup Code Fuente\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Entidades.dll
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Backup Code Fuente\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Datos.pdb
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Backup Code Fuente\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Logica.pdb
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Backup Code Fuente\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Entidades.pdb
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Backup Code Fuente\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Backup Code Fuente\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmAlmacen.resources
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Backup Code Fuente\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmFamilia.resources
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Backup Code Fuente\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmLogin.resources
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Backup Code Fuente\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmMenuPrincipal.resources
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Backup Code Fuente\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal.resources
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Backup Code Fuente\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Backup Code Fuente\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Datos.dll
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Logica.dll
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Entidades.dll
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Datos.pdb
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Logica.pdb
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmAlmacen.resources
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmFamilia.resources
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmLogin.resources
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmMenuPrincipal.resources
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal.resources
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmProveedor.resources
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Logica.dll
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Entidades.dll
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Logica.pdb
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmProveedor.resources
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Datos.dll
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Datos.pdb
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmTipo_Proveedor.resources
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.Entradas.resources
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.Menu_Principal.resources
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.Balance_de_Facturas.resources
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmCosto_Compras.resources
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.informe_proveedor.resources
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.Frmegreso.resources
+F:\SISTEMAS ACTUALES\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Presentacion.exe.config
+F:\SISTEMAS ACTUALES\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.exe
+F:\SISTEMAS ACTUALES\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Entidades.dll
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Logica.dll
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Datos.dll
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Logica.pdb
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\bin\Debug\Datos.pdb
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.Balance_de_Facturas.resources
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.Entradas.resources
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmCosto_Compras.resources
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.Frmegreso.resources
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmProveedor.resources
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.FrmTipo_Proveedor.resources
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.informe_proveedor.resources
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.Menu_Principal.resources
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\juan\Desktop\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\juan\Desktop\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\juan\Desktop\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Entidades.dll
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Logica.dll
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Datos.dll
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Logica.pdb
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Datos.pdb
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Menu_Principal.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Compras.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Compras.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Ventas.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Clientes.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Productos.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Proveedor.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Categorias.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Marcas.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Productos.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Acerca.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Compras_list.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Login.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_clientes.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.impresion_proveedores.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_productosss.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Personall.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Usuarioss.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Ventas.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Ver_Clientes.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Ver_Proveedores.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Ventass_list.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Marcas_Catalogos.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Productos_Catoalogos.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_VentasFechas.resources
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_ComprasFechas.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Entidades.dll
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Logica.dll
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Datos.dll
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Logica.pdb
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Datos.pdb
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Acerca.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Categorias.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Clientes.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Compras.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_clientes.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Compras.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_ComprasFechas.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Compras_list.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Marcas_Catalogos.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Productos.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_productosss.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Productos_Catoalogos.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.impresion_proveedores.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Ventas.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_VentasFechas.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Ventass_list.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Login.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Marcas.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Menu_Principal.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Personall.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Productos.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Proveedor.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Ventas.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Ver_Clientes.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Ver_Proveedores.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_salida.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Entrada.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Entrada.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Salida.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\GenerateResource.read.724.tlog
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.permisos.resources
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Vendedores.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Acerca.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Categorias.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Clientes.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Compras.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Entrada.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_clientes.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Compras.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_ComprasFechas.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Compras_list.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Entrada.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Marcas_Catalogos.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Productos.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_productosss.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Productos_Catoalogos.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.impresion_proveedores.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_salida.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Ventas.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_VentasFechas.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Ventass_list.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Login.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Marcas.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Menu_Principal.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Personall.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Productos.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Proveedor.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Salida.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.permisos.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Vendedores.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Ventas.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Ver_Clientes.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Ver_Proveedores.resources
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.pdb
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Logica.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Datos.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\FlashControlV71.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\stdole.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Logica.pdb
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Acerca.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Categorias.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Clientes.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Compras.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Entrada.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_clientes.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Compras.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_ComprasFechas.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Compras_list.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Entrada.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Marcas_Catalogos.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Productos.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_productosss.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Productos_Catoalogos.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.impresion_proveedores.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_salida.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Ventas.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_VentasFechas.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Ventass_list.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Login.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Marcas.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Menu_Principal.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Personall.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Productos.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Proveedor.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Salida.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.permisos.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Vendedores.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Ventas.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Ver_Clientes.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Ver_Proveedores.resources
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Logica.dll
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Datos.dll
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\FlashControlV71.dll
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\stdole.dll
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Logica.pdb
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Acerca.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Categorias.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Clientes.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Compras.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Entrada.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_clientes.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Compras.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_ComprasFechas.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Compras_list.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Entrada.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Marcas_Catalogos.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Productos.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_productosss.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Productos_Catoalogos.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.impresion_proveedores.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_salida.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Ventas.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_VentasFechas.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Impresion_Ventass_list.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Login.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Marcas.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Menu_Principal.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Personall.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Productos.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Proveedor.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Salida.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.permisos.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Vendedores.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Ventas.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Ver_Clientes.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.Ver_Proveedores.resources
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Presentacion\obj\x86\Debug\Presentacion.pdb

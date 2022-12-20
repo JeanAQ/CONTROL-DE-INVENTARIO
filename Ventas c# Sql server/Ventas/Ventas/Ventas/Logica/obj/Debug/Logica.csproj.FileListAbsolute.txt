@@ -1,0 +1,41 @@
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Logica\bin\Debug\Logica.dll
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Logica\bin\Debug\Logica.pdb
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Logica\obj\Debug\Logica.dll
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Logica\obj\Debug\Logica.pdb
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Logica\bin\Debug\Datos.dll
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Logica\bin\Debug\Datos.pdb
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Logica\bin\Debug\Logica.dll
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Logica\bin\Debug\Logica.pdb
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Logica\bin\Debug\Datos.dll
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Logica\bin\Debug\Datos.pdb
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Logica\obj\Debug\Logica.dll
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Logica\obj\Debug\Logica.pdb
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Logica\bin\Debug\Logica.dll
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Logica\bin\Debug\Logica.pdb
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Logica\bin\Debug\Datos.dll
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Logica\bin\Debug\Datos.pdb
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Logica\obj\Debug\Logica.dll
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Logica\obj\Debug\Logica.pdb
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Logica\bin\Debug\Entidades.dll
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Logica\bin\Debug\Entidades.pdb
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Logica\bin\Debug\Logica.dll
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Logica\bin\Debug\Logica.pdb
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Logica\bin\Debug\Datos.dll
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Logica\bin\Debug\Entidades.dll
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Logica\bin\Debug\Datos.pdb
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Logica\bin\Debug\Entidades.pdb
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Logica\obj\Debug\Logica.dll
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Logica\obj\Debug\Logica.pdb
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Logica\obj\Debug\Logica.dll
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Logica\bin\Debug\Logica.dll
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Logica\bin\Debug\Logica.pdb
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Logica\bin\Debug\Datos.dll
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Logica\bin\Debug\Entidades.dll
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Logica\bin\Debug\Datos.pdb
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Logica\bin\Debug\Entidades.pdb
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Logica\obj\Debug\Logica.pdb

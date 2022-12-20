@@ -1,0 +1,31 @@
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Datos\bin\Debug\Datos.dll
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Datos\bin\Debug\Datos.pdb
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Datos\obj\Debug\Datos.dll
+E:\UNIVERSAL\C#\PROGRAMAS C#\ProgCapas Sol\Datos\obj\Debug\Datos.pdb
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Datos\bin\Debug\Datos.dll
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Datos\bin\Debug\Datos.pdb
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Datos\obj\Debug\Datos.dll
+E:\UNIVERSAL\C#\Proyecto Final\SistControlSol\Datos\obj\Debug\Datos.pdb
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Datos\bin\Debug\Datos.dll
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Datos\bin\Debug\Datos.pdb
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Datos\obj\Debug\Datos.dll
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Datos\obj\Debug\Datos.pdb
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Datos\bin\Debug\Entidades.dll
+C:\Users\Arturo\Desktop\Proyecto Final\SistControlSol\Datos\bin\Debug\Entidades.pdb
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Datos\bin\Debug\Datos.dll
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Datos\bin\Debug\Datos.pdb
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Datos\bin\Debug\Entidades.dll
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Datos\bin\Debug\Entidades.pdb
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Datos\obj\Debug\Datos.dll
+E:\02 UNIVERSAL\C#\JUAN ESTEBAN GONZALEZ\Proyecto Final\SistControlSol\Datos\obj\Debug\Datos.pdb
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Datos\bin\Debug\Datos.dll
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Datos\bin\Debug\Datos.pdb
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Datos\bin\Debug\Entidades.dll
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Datos\bin\Debug\Entidades.pdb
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Datos\obj\Debug\Datos.dll
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Datos\obj\Debug\Datos.pdb

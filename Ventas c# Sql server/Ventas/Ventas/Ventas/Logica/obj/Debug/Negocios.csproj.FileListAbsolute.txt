@@ -1,0 +1,59 @@
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Logica\bin\Debug\Logica.dll
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Logica\bin\Debug\Logica.pdb
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Logica\bin\Debug\Datos.dll
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Logica\bin\Debug\Entidades.dll
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Logica\bin\Debug\Datos.pdb
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Logica\bin\Debug\Entidades.pdb
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Logica\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Logica\obj\Debug\Logica.dll
+C:\Users\juancarlos\Desktop\Proyecto Final\Proyecto Final\SistControlSol\Logica\obj\Debug\Logica.pdb
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Logica\bin\Debug\Logica.dll
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Logica\bin\Debug\Logica.pdb
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Logica\bin\Debug\Datos.dll
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Logica\bin\Debug\Entidades.dll
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Logica\bin\Debug\Datos.pdb
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Logica\bin\Debug\Entidades.pdb
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Logica\obj\Debug\Logica.dll
+C:\Users\juan\Desktop\Proyecto Final\Proyecto Final\Proyecto Final\SistControlSol\Logica\obj\Debug\Logica.pdb
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\bin\Debug\Logica.dll
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\bin\Debug\Logica.pdb
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\bin\Debug\Datos.dll
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\bin\Debug\Entidades.dll
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\bin\Debug\Datos.pdb
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\bin\Debug\Entidades.pdb
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\obj\Debug\Logica.dll
+C:\Users\juan\Desktop\Ventas Ferteteria C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\obj\Debug\Logica.pdb
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\bin\Debug\Logica.dll
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\bin\Debug\Logica.pdb
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\bin\Debug\Datos.dll
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\bin\Debug\Entidades.dll
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\bin\Debug\Datos.pdb
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\bin\Debug\Entidades.pdb
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\obj\Debug\Logica.dll
+C:\Users\juan\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\obj\Debug\Logica.pdb
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\obj\Debug\Logica.dll
+C:\Users\Usuario\Desktop\t4\SISTEMA ALMACEN,COMPRAS,VENTAS,INVENTARIOS C #\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\obj\Debug\Logica.pdb
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\bin\Debug\Logica.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\bin\Debug\Logica.pdb
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\bin\Debug\Datos.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\bin\Debug\Datos.pdb
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\obj\Debug\Logica.dll
+C:\Users\Usuario\Desktop\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\obj\Debug\Logica.pdb
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\bin\Debug\Logica.dll
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\bin\Debug\Logica.pdb
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\bin\Debug\Datos.dll
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\bin\Debug\Entidades.dll
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\bin\Debug\Datos.pdb
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\bin\Debug\Entidades.pdb
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\obj\Debug\Negocios.csprojAssemblyReference.cache
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\obj\Debug\Logica.dll
+C:\Users\Jean Franco\Desktop\proyecto jean franco\Ventas C# y Sqlserver\Ventas c# Sql server\Ventas\Ventas\Ventas\Logica\obj\Debug\Logica.pdb

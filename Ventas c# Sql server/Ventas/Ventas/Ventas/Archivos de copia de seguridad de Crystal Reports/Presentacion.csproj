@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{09CF8084-729A-4A40-A41C-8BB6F9E32080}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Presentacion</RootNamespace>
+    <AssemblyName>Presentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Balance_de_Facturas .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Balance_de_Facturas .Designer.cs">
+      <DependentUpon>Balance_de_Facturas .cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entradas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entradas.Designer.cs">
+      <DependentUpon>Entradas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCosto_Compras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCosto_Compras.Designer.cs">
+      <DependentUpon>FrmCosto_Compras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmegreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmegreso.Designer.cs">
+      <DependentUpon>Frmegreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProveedor.Designer.cs">
+      <DependentUpon>FrmProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTipo_Proveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTipo_Proveedor.Designer.cs">
+      <DependentUpon>FrmTipo_Proveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="informe.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>informe.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="informe_proveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="informe_proveedor.Designer.cs">
+      <DependentUpon>informe_proveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="inforproveedor.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>inforproveedor.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Menu_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Principal.Designer.cs">
+      <DependentUpon>Menu_Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="reporte_balacen_facturas.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>reporte_balacen_facturas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="Balance_de_Facturas .resx">
+      <DependentUpon>Balance_de_Facturas .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Entradas.resx">
+      <DependentUpon>Entradas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCosto_Compras.resx">
+      <DependentUpon>FrmCosto_Compras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmegreso.resx">
+      <DependentUpon>Frmegreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProveedor.resx">
+      <DependentUpon>FrmProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTipo_Proveedor.resx">
+      <DependentUpon>FrmTipo_Proveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="informe.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>informe.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="informe_proveedor.resx">
+      <DependentUpon>informe_proveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inforproveedor.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>inforproveedor.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Principal.resx">
+      <DependentUpon>Menu_Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="reporte_balacen_facturas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>reporte_balacen_facturas.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallpaper-1613512.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallpaper-Einsteins.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mano de Equipo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Equipo 3D.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\307015_129177050513159_128770707220460_139441_3785174_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aide.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Favourite1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aide1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tips.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{24B79527-0ADC-46E1-B58C-CAB895603C38}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Logica\Negocios.csproj">
+      <Project>{A0D5781C-B6E3-434A-8943-7653E54EB58D}</Project>
+      <Name>Negocios</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\limpiar.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Floppy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Amber-Printer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aide2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shortcut.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button_Reload_Icon_96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Amber-Folder-Subscriptions.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salir-de-mi-perfil-icono-3964-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Entrada de Mercancia.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Create.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eqsl_exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancelar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Guardar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Modificar5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Find.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Buscar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eqsl_exit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancelar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Guardar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nuevo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nuevoooo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lines 400-300 copia.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagesCAW6XUIPDDDD.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\REPORTESSS.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PAGANDO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empleadosss.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\factura.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\REPORTES_gRAFICO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagesCAW6XUIPDDDD1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clientes2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imprimiendo.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
